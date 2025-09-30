@@ -1,5 +1,3 @@
-# mhm-mining-optimization
-Revolutionary 23.4% cryptocurrency mining optimization using Miller Harmonic Method. Proven results: 3,779 → 4,662+ H/s on Apple Silicon. Commercial licensing available.
 # 🔥 MHM Mining Optimization - Revolutionary 23.4% Performance Gains
 
 **Miller Harmonic Method (MHM)** - Proven cryptocurrency mining optimization achieving **23.4% hash rate improvements** on Apple Silicon through mathematical breakthroughs and ASIC-level software techniques.
