@@ -199,7 +199,7 @@ We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.
 
 ### **Commercial Licensing**
 For enterprise applications, custom optimization, or commercial licensing:
-- **Email**: [contact@mhm-optimization.com]
+- **Email**: [holdatll2@gmail.com]
 - **Enterprise support**: Professional implementation assistance
 - **Custom solutions**: Tailored optimization for specific hardware
 - **Training services**: Knowledge transfer and education
